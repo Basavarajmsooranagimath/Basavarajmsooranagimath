@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://g.dev/Basavarajms2210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="basavarajms2210" height="30" width="40" /></a>
+<a href="https://g.dev/Basavarajmsooranagimath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="basavarajms2210" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/basavaraj-sooranagimath-1687702bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="basavaraj-sooranagimath-1687702bb/" height="30" width="40" /></a>
 </p>
 
