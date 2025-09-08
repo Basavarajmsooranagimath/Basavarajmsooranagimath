@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Basavaraj M Sooranagimath</h1>
-![github-header-image](https://github.com/Basavarajmsooranagimath/Basavarajmsooranagimath/blob/main/github-header-image%20(1).png)
+<img align="center"alt="coding"width="400"nsrc="<img width="666" height="200" alt="image" src="https://github.com/user-attachments/assets/a81c184e-2177-4ef8-b9a3-8d76c396bb4c" />
+
 <h3 align="center">Passionate about Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=basavarajmsooranagimath&label=Profile%20views&color=0e75b6&style=flat" alt="basavarajmsooranagimath" /> </p>
