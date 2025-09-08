@@ -1,3 +1,4 @@
+<h3 align="center"></h3>
 <h1 align="center">Hi 👋, I'm Basavaraj M Sooranagimath</h1>
 <h3 align="center">Passionate about Data Analyst</h3>
 
