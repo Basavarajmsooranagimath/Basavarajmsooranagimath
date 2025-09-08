@@ -1,5 +1,5 @@
-<h3 align="center"> github-header-image (1).png </h3>
 <h1 align="center">Hi 👋, I'm Basavaraj M Sooranagimath</h1>
+![github-header-image]()
 <h3 align="center">Passionate about Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=basavarajmsooranagimath&label=Profile%20views&color=0e75b6&style=flat" alt="basavarajmsooranagimath" /> </p>
