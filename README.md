@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Basavaraj M Sooranagimath</h1>
-<img align="center"alt="coding"width="600"nsrc="<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/a81c184e-2177-4ef8-b9a3-8d76c396bb4c" />
+<img align="center"alt="coding"width="600"nsrc="<img width="600" height="200" alt="image" src="https://github.com/user-attachments/assets/a81c184e-2177-4ef8-b9a3-8d76c396bb4c" />
 
 <h3 align="center">Passionate about Data Analyst</h3>
 
