@@ -1,4 +1,4 @@
-<h3 align="center"> https://github.com/Basavarajmsooranagimath/Basavarajmsooranagimath/blob/main/github-header-image%20(1).png </h3>
+<h3 align="center"> github-header-image (1).png </h3>
 <h1 align="center">Hi 👋, I'm Basavaraj M Sooranagimath</h1>
 <h3 align="center">Passionate about Data Analyst</h3>
 
