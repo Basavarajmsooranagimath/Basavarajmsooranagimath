@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Basavaraj M Sooranagimath</h1>
-<img align="center"alt="coding"width="900"nsrc="<img width="900" height="200" alt="image" src="https://github.com/user-attachments/assets/a81c184e-2177-4ef8-b9a3-8d76c396bb4c" />
+<img align="center"alt="coding"width="1000"nsrc="<img width="1000" height="300" alt="image" src="https://github.com/user-attachments/assets/a81c184e-2177-4ef8-b9a3-8d76c396bb4c" />
 
 <h3 align="center">Passionate about Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=basavarajmsooranagimath&label=Profile%20views&color=0e75b6&style=flat" alt="basavarajmsooranagimath" /> </p>
 
-- 👀 I’m interested in computer science engineering 
-- 🌱 I’m currently learning c,python,java languages 
-- 💞 I’m looking to collaborate on many language programs
+- 👀  I am pursuing my education as a Computer Science Engineering👨‍🎓 in Jain college of engineering,hubbali
+- 🌱 I am basically know c,python,java languages 
+- 💞 I am looking to collaborate on many language programs and projects
 - 📫 How to reach me *basavarajsooranagimath@gmail.com*
-- ⚡ Fun fact *I am Funny*
+- ⚡ Fun fact *solving a code pixel by pixel and line by line✨*
 
 
 
