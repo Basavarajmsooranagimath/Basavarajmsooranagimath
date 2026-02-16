@@ -9,7 +9,7 @@
 - 🌱 I am basically know c,python,java languages 
 - 💞 I am looking to collaborate on many language programs and projects
 - 📫 How to reach me *basavarajsooranagimath@gmail.com*
-- ⚡ Fun fact *solving a code pixel by pixel and line by line✨*
+- ⚡ Fun fact *More Intresting in learn and Explore new Things✨*
 
 
 
