@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Basavaraj M Sooranagimath</h1>
+<h1 align="center">Hi 👋, I'm Basavaraj Sooranagimath</h1>
 <img align="center"alt="coding"width="1000"nsrc="<img width="1000" height="300" alt="image" src="https://github.com/user-attachments/assets/a81c184e-2177-4ef8-b9a3-8d76c396bb4c" />
 
 <h3 align="center">COMPUTER SCIENCE STUDENT</h3>
